@@ -92,7 +92,7 @@ class WithProtecteds {
   protected protectedMethod() {}
 
   // Not inherited method - Hidden from outside
-  private privateMethod() {}
+  // private privateMethod() {}
 }
 
 // Abstract classes and methods
